@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kashish Khullar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1>Hi 👋, I'm Kashish Khullar</h1>
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashishkhullar" alt="kashishkhullar" /></a> </p>
 
