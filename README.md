@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Kashish Khullar</h1>
 <br/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashishkhullar" alt="kashishkhullar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thisis_kashish" target="blank"><img src="https://img.shields.io/twitter/follow/thisis_kashish?logo=twitter&style=for-the-badge" alt="thisis_kashish" /></a> </p>
+<br/>
 
 - 🌱 I’m currently learning **Flutter**
 
