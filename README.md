@@ -18,6 +18,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Implementing Merkle Tree and Patricia Trie](https://medium.com/coinmonks/implementing-merkle-tree-and-patricia-trie-b8badd6d9591?source=rss-80f3f6382df6------2)
+- [Implementing PBFT in Blockchain](https://medium.com/coinmonks/implementing-pbft-in-blockchain-12368c6c9548?source=rss-80f3f6382df6------2)
+- [Insolar Blockchain Use Cases](https://medium.com/coinmonks/insolar-blockchain-use-cases-7975ca9f9139?source=rss-80f3f6382df6------2)
+- [Implementing Proof of Stake Part — 5](https://medium.com/coinmonks/implementing-proof-of-stake-part-5-7e3d5b6cdc31?source=rss-80f3f6382df6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
