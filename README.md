@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently looking for full time roles.
 
-- 👨‍💻 Read more about me on LinkedIn: [https://kashishkhullar.github.io/](https://www.linkedin.com/in/kashishkh/)
+- 👨‍💻 Read more about me on LinkedIn: [https://www.linkedin.com/in/kashishkh/](https://www.linkedin.com/in/kashishkh/)
 
 - 📝 I publish articles on Medium: [https://medium.com/@kashishkhullar](https://medium.com/@kashishkhullar)
 
