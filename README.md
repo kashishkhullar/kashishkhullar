@@ -1,19 +1,16 @@
 <h1>Hi 👋, I'm Kashish Khullar</h1>
 <br/>
-<p align="left"> <a href="https://twitter.com/thisis_kashish" target="blank"><img src="https://img.shields.io/twitter/follow/thisis_kashish?logo=twitter&style=for-the-badge" alt="thisis_kashish" /></a> </p>
-<br/>
+<p align="left"> <a href="[[https://twitter.com/thisis_kashish](https://twitter.com/kasheyyysh)](https://twitter.com/kasheyyysh)" target="blank"><img src="https://img.shields.io/twitter/follow/kasheyyysh?logo=twitter&style=for-the-badge" alt="kasheyyysh" /></a> </p>
 
-- 🌱 I’m currently working as a Research Assistant at **Blockchain Research Lab, ASU**
+- 🌱 I’m currently looking for full time roles.
 
-- 👨‍💻 Read more about me on [https://kashishkhullar.github.io/](https://kashishkhullar.github.io/)
+- 👨‍💻 Read more about me on LinkedIn: [https://kashishkhullar.github.io/](https://www.linkedin.com/in/kashishkh/)
 
-- 📝 Read my articles on [https://medium.com/@kashishkhullar](https://medium.com/@kashishkhullar)
+- 📝 I publish articles on Medium: [https://medium.com/@kashishkhullar](https://medium.com/@kashishkhullar)
 
 - 💬 Ask me about **42**
 
 - 📫 How to reach me **kkhullar7@gmail.com**
-
-- ⚡ Fun fact **I'm a Marvel nerd**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
