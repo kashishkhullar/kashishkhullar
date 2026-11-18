@@ -2,15 +2,10 @@
 <br/>
 <p align="left"> <a href="[[https://twitter.com/thisis_kashish](https://twitter.com/kasheyyysh)](https://twitter.com/kasheyyysh)" target="blank"><img src="https://img.shields.io/twitter/follow/kasheyyysh?logo=twitter&style=for-the-badge" alt="kasheyyysh" /></a> </p>
 
-- 🌱 I’m currently looking for full time roles.
-
-- 👨‍💻 Read more about me on LinkedIn: [https://www.linkedin.com/in/kashishkh/](https://www.linkedin.com/in/kashishkh/)
 
 - 📝 I publish articles on Medium: [https://medium.com/@kashishkhullar](https://medium.com/@kashishkhullar)
 
-- 💬 Ask me about **42**
 
-- 📫 How to reach me **kkhullar7@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -23,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thisis_kashish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thisis_kashish" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kashish-khullar-bb65b014a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kashish-khullar-bb65b014a/" height="30" width="40" /></a>
+
 <a href="https://medium.com/@kashishkhullar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kashishkhullar" height="30" width="40" /></a>
 </p>
 
